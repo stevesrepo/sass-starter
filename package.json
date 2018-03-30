@@ -1,0 +1,18 @@
+{
+  "name": "sass-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/stevesrepo/sass-starter.git",
+  "author": "stevesrepo <steve@stevesrepo.com> (http://www.stevesrepo.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.3.0",
+    "node-sass": "^4.8.3"
+  },
+  "scripts": {
+    "sass-to-css": "node-sass sass -o css",
+    "watch-sass": "npm run sass-to-css -- --watch",
+    "dev": "lite-server",
+    "start": "npm run dev"
+  }
+}
