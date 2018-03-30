@@ -2,21 +2,20 @@
 
 This is a simple project to get you started with SASS. It sets you up with SASS with a web server, hot-loading of SASS files and compiling to css.
 
-**Usage:**
-To load the webserver, run the following in your projects root folder.
+**Setup:**
+First start the webserver by running the following terminal command in your projects root folder.
 ```
 npm start
 ```
 
 
-**To autocompile your SASS to CSS:**
-Run the following in a new terminal window. 
+Next, run the following in a new terminal window. 
 
 ```
 npm watch-sass
 ```
 
-**Testing:**
+**Trying it out**
 
 1. Run the above two commands
 2. Have your web browser open to the side (so it's visible when you make your change)
