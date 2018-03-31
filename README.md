@@ -12,7 +12,7 @@ npm start
 Next, run the following in a new terminal window. 
 
 ```
-npm watch-sass
+npm run watch-sass
 ```
 
 **Trying it out**
