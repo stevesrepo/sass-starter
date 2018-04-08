@@ -2,6 +2,11 @@
 
 This is a simple project to get you started with SASS. It sets you up with SASS with a web server, hot-loading of SASS files and compiling to css.
 
+**Install node_modules**
+```
+npm install 
+```
+
 **Setup:**
 First start the webserver by running the following terminal command in your projects root folder.
 ```
